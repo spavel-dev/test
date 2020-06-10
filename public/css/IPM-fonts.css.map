@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAgB;AAChB,UAQC;EAPC,WAAW,EAAE,uBAAuB;EACpC,GAAG,EAAE,sCAAsC;EAC3C,GAAG,EAAE,2TAIqE;AAE5E,UAQC;EAPC,WAAW,EAAE,sBAAsB;EACnC,GAAG,EAAE,qCAAqC;EAC1C,GAAG,EAAE,qTAImE",
+"sources": ["IPM-fonts.scss"],
+"names": [],
+"file": "IPM-fonts.css"
+}
